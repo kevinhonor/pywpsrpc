@@ -54,6 +54,10 @@ WPS二次开发接口允许开发者通过给定的接口来调起WPS并执行�
 
 先打包执行： `sip-wheel`
 
+生成对应的whl文件之后，执行pip debug --verbose查看系统支持的包命名方式,
+
+修改whl文件名称与系统支持的包命名对应
+
 打包完成后再通过`pip install pywpsrpc-*.whl`命令安装
 
 
