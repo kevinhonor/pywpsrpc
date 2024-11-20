@@ -1,4 +1,4 @@
-.vscode
+vscode
 Makefile
 sip*.cpp
 sip*.h
