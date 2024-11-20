@@ -58,7 +58,7 @@ WPS二次开发接口允许开发者通过给定的接口来调起WPS并执行�
 
 修改whl文件名称与系统支持的包命名对应
 
-打包完成后再通过`pip install pywpsrpc-*.whl`命令安装
+再通过`pip install pywpsrpc-*.whl`命令安装
 
 
 ## 快速上手
