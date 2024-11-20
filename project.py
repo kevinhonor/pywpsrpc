@@ -72,7 +72,7 @@ class PyWpsRpcProject(sipbuild.Project):
         return dunder_init
 
     def get_requires_dists(self):
-        # the sip module already contains in the package
+        # the sip module already contains in the packages
         return []
 
 
